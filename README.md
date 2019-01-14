@@ -1,7 +1,10 @@
 # recycling-helper-aws-sumerian
 AWS Sumerian based AR application to get info for Recycling Labels and Nearby Recycling center with the help Sumerian Host
 ## Inspiration
-How2Recycle is a standardized labeling system that clearly communicates recycling instructions to the public. It involves a coalition of forward thinking brands who want their packaging to be recycled and are empowering consumers through smart packaging labels. Need a resource which can provide quick information about the labels. What better than an AR mobile app which is easy and handy to access. Also once we have information about the recycling label, we can find nearby recycling center by providing item ( CFL, Laptop , glass) and Zip Code  to our recycling helper  ( Sumerian Host ) this helper shall provide information and also will tell how to recycle the item. It is a complete solution to help people getting information about the recycling process. 
+How2Recycle is a standardized labeling system that clearly communicates recycling instructions to the public. It involves a coalition of forward thinking brands who want their packaging to be recycled and are empowering consumers through smart packaging labels. 
+Recycling labels placed on various consumer products are displayed with icons and limited texts. We need a resource which can provide quick information about the labels to the person who wants to recycle the item after consumption. What better than an AR mobile app, which is easy and handy to access for this task. By using Sumerian and Android ARCore based mobile APP, user can scan the recycling label to get the information about the various parts o the label. 
+Also once we have information about the recycling label, we can find nearby recycling center by providing item ( CFL, Laptop , glass) and Zip Code  to our recycling helper  ( Sumerian Host ) this helper shall provide information and also will tell how to prepare the item for recycling . 
+It is a complete solution to help people getting information about the recycling process. 
 
 ## What it does
 ### Provide information about recycling labels by scanning the label using the mobile camera
