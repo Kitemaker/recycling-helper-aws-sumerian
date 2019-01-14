@@ -13,21 +13,26 @@ It is a complete solution to help people getting information about the recycling
 ### 4. Provide the steps how to prepare an item to recycle. Lex response is synchronised to provide information and also show the link web page from earth911.com in the app
 
 ## How I built it
-This application has two parts 
+This application has two parts
+
 (i) Getting information about the recycling label using Image Recognition by ARCore in android App. At present it can recognize 20 different recycling labels. 
+
 (ii) Recycling Helper based on Sumerian Host Luke. This host can be launched in the real environment using ARCore and this host shall provide information about:
-(a) Nearby recycling center by using web scraping of earth911.com. As the address is identified by AWS Lambda , the information is passed by Lex to Sumerian Host. This message is processed using google Map API and nearby recycling center is also indicated on the Map provided in the Screen inside the scene
-(b) Information about the structure and parts of the recycling label for this data is collected form website "how2recycle.info" and matching images are fetched from "AWS S3" whenever Lex response is received.
-(c) Stpes to   prepare item for recycling for example Glass, Metal, Paper, Mobile etc.  Related Web Page from earth911.com is also displayed iinside the scene. 
+  #### (a) Nearby recycling center by using web scraping of earth911.com by using python package "beautifulsoup4". As the address is identified by AWS Lambda , the information  is passed by Lex to Sumerian Host. This message is processed using google Map API and nearby recycling center is also indicated on the Map provided in the Screen inside the scene
+  #### (b) Information about the structure and parts of the recycling label for this data is collected form website "how2recycle.info" and matching images are fetched from "AWS S3" whenever Lex response is received.
+  #### (c) Steps to   prepare item for recycling for example Glass, Metal, Paper, Mobile etc.  Related Web Page from earth911.com is also displayed inside the scene. I have used sumerian events to synchronize Lex response with updating web pages on the mobile app  
 
 
 ## Challenges I ran into
-I prepared 2500 images of various recycling labels but ARCore has limitation of scanning 20 images , so At present I have restricted app for 20 images. Finding correct size of Map Screen and Host  took the time and also synchronization between Lex Response and display of Map and Various images was interesting points
+I prepared approx 2500 images of various recycling labels but ARCore has limitation of scanning 20 images , so At present I have restricted app for 20 images. Finding correct size of Map Screen and Host  took the time and also synchronization between Lex Response and display of Map and various images was thought provoking points. Simultaneously worked on various platforms i.e. Sumerian, Lex, Android Studio , S3, how2recycle.info and earth911.com was bit challenging of course.
+Debugging ARCore app  on Android Studio with Sumerian scene is quite difficult as remote debugging was not working for me. 
 
 ## Accomplishments that I'm proud of
-This is my first AR application I am quite happy to develop the application for a social cause. Providing information by scanning label will definetely help people understanding about recycling labels. also we can quickly find nearby recycling center
+This is my first AR application I am quite happy to develop the application for a social cause. Learning sumerian and working on Sumerian Hosts are very exceting. Providing information by scanning label will definetely help people understanding about recycling labels. also we can quickly find nearby recycling center
 
 ## What I learned
-I have learned Sumerian and ARCore for this application
+I have learned Sumerian and ARCore for this application. Also enhanced my skills of HTML and Javascript. I am more PC based developer but now learned a lot about web application
 
 ## What's next for Recycling Helper
+To collaborate with https://www.how2recycle.info and https://earth911.com to enhance the application , Android app to be published on Google Play Store for the public access also I have to find solution to include more and more labels in the app 
+
