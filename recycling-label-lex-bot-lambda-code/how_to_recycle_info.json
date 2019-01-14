@@ -1,0 +1,189 @@
+{"recycle":
+[
+	{
+		"item":["glass"],
+		"data":{
+				"image":"https://s3.amazonaws.com/aws-sumerian-ar/APL/how2recycle/glass-recycling-header-2.jpg",
+				"link" : "https://earth911.com/recycling-guide/how-to-recycle-glass/",
+				"title":"How to Recycle Glass",
+				"title_text":"When it comes to glass recycling, there’s container glass … and everything else. That’s because non-containers are treated with chemicals to make them more durable, but this reduces the recycling market for things like windows, mirrors, light bulbs and glassware.",
+				"tips_header":"Glass Recycling Tips",
+				"tips":[
+						"Do your best to prevent glass from breaking. Not only is broken glass dangerous for you, but it has little recycling value. If glass breaks, wrap it in a plastic bag before throwing away so sanitation workers won’t get injured handling it.","For windows and mirrors, you’ll need to find a construction and demolition recycler to process the material. These companies don’t want to take one unit (especially if it’s broken), so unless you are a contractor, you’ll likely need to schedule a bulk waste pick-up with your local municipality’s solid waste office for your mirrors and windows."]	
+		}
+	},
+	{
+		"item":["glass bottles", "bottles", "glass bottles and jars"],
+		"data":{
+				"image":"https://s3.amazonaws.com/aws-sumerian-ar/APL/how2recycle/glass_bottles-recycling-header.jpg",
+				"link": "https://earth911.com/recycling-guide/how-to-recycle-glass-bottles-jars/",
+				"title":"How to Recycle Glass Bottles & Jars",
+				"title_text":"Glass bottles are frequently used to package liquids like soda, juice, beer and wine, and are accepted in most curbside recycling programs. So why is the glass recycling rate (34 percent) half that of aluminum cans (67 percent)? We definitely have work to do.",
+				"tips_header":"Glass Bottle & Jar Recycling Preparation",
+				"tips":[
+						"Do your best to not break glass bottles, as there is no market for recycling broken glass.","You can leave the label/foil on, but many recyclers will ask you to separate the metal caps. This is partly to ensure that all liquids are removed. Wine corks need to be fully removed.","Don’t worry about non-liquids in the bottle, such as a lime wedge in a beer bottle or bits of cork in a wine bottle","Remove any non-containers from your glass recycling, such as Pyrex, glassware, windows and mirrors. These glass products can’t be recycled with containers."
+					]
+		}
+	},
+	{
+		"item":["metal"],
+		"data":{
+				"image":"https://s3.amazonaws.com/aws-sumerian-ar/APL/how2recycle/How-to-Recycle-Metal-min.jpg",
+				"link": "https://earth911.com/recycling-guide/how-to-recycle-metal/",
+				"title":"How to Recycle Metal",
+				"title_text":"Scrap metal is one of the most valuable products you can recycle, and it encompasses so many consumer products. From appliances to batteries to cans to clothes hangers, metal is everywhere in our homes. Recycling metal is important to not only keep this limited supply material out of landfills, but also because it can make you money",
+				"tips_header":"Metal Recycling Preparation",
+				"tips":[
+						"With scrap metal, the general rule is a product needs to be at least 50 percent metal. Even if that metal is surrounded by other materials like plastic, it’s worth recycling if it’s made mostly out of metal.","If you have products with only a small amount of metal but it’s easy to remove, separate the metal. For example, a plastic three-ring binder is not scrap metal, but remove the metal rings and now you’re talking.","Scrap metal is classified as either ferrous (containing iron, such as steel) and nonferrous (everything else). So, you’ll want to identify whether your metal is ferrous or nonferrous. The way to do this is with a magnet. Ferrous metals stick to a magnet; nonferrous metals don’t.","Use Earth911’s recycling directory to find a scrap metal recycler, and contact the company or visit its webpage to find out current payouts and if there’s a minimum amount of material you need to bring.","Most scrap metal recyclers will require you to bring identification when you recycle. This is to prevent people from stealing scrap metal (e.g., road signs, metal barriers) and selling it for scrap."
+					]
+		}
+	},
+	{	"item":["steel can","steel", "can"],
+	    "data": {
+				"image":"https://s3.amazonaws.com/aws-sumerian-ar/APL/how2recycle/how-to-recycle-tin-or-steel-cans-min.jpg",
+				"link" : "https://earth911.com/recycling-guide/how-to-recycle-tin-or-steel-cans/",
+				"title":"How to Recycle Steel Cans",
+				"title_text":"Steel cans are used to package everything from pet food to vegetables to soup and are one of the oldest forms of food packaging, dating back to the 14th century. Steel cans are often lined with tin (and thus sometimes referred to as bi-metal cans) to prevent rust and food contamination, but this has no effect on the recyclability of the product.",
+				"tips_header":"Steel Can Recycling Preparation",
+				"tips":[
+						"Most steel cans will have a paper label, which does not need to be removed. The paper will be removed during the recycling process, and since it’s a low quality of paper, it won’t be worth your time to remove and recycle it with other paper.","You should rinse your cans to remove any leftover food. This will prevent your recycling bin from smelling and reduce the risk of animals attacking your recycling.","Completely remove the lid (also made of steel) and insert into the can, then pinch the top so it closes. This will also prevent birds or cats from getting their heads stuck in the cans.","Use Earth911’s recycling directory to find a steel can recycler."
+					]
+				
+	  
+	  }	
+	},
+	{ 
+		"item": ["aluminum foil"],
+		"data": {
+				"image":"https://s3.amazonaws.com/aws-sumerian-ar/APL/how2recycle/recycling-aluminum-foil-header.jpg",
+				"link":"https://earth911.com/recycling-guide/how-to-recycle-aluminum-foil/",
+				"title":"How to Recycle Aluminum Foil",
+				"title_text":"Foil is made from the same material as soda cans (aluminum), but since it’s most often contaminated with food waste or combined with plastic (like with yogurt tops), there’s no guarantee you can recycle it with your aluminum cans.",
+				"tips_header":"Aluminum Foil Recycling Preparation",
+				"tips":[
+						"You want to make sure that aluminum foil is as clean as possible before recycling. While burns and holes won’t affect the recycling market, you’ll want to remove any meats or sauces from the foil.","If you’re recycling aluminum foil that you bought and used for storage, separate the foil from the paperboard box and corrugated tube before recycling.","If foil is combined with other materials (such as in drink boxes, candy wrappers and yogurt tops) and can’t be separated, you’ll want to throw it away. Foil mixed with other materials is considered recycling contamination.","Combine all sheets of foil into one ball. This will keep the material easily separated from other products, and also prevent it from blowing away (aluminum foil is a very light material).Use Earth911’s recycling directory to find an aluminum foil recycler."
+				]
+				
+	  
+	  }	
+	},
+		{ "item": ["books", "book", "books and magazines"],
+		 "data": {
+				"image":"https://s3.amazonaws.com/aws-sumerian-ar/APL/how2recycle/recycling-books-header.jpg",
+				"link":"https://earth911.com/recycling-guide/how-to-recycle-books-magazines/",
+				"title":"How to Recycle Books and Magazines",
+				"title_text":"While magazine subscriptions are on a recent decline and book sales are holding steady, it’s likely you have a stockpile of both these products on your coffee table, in your bookshelf or collecting dust in the garage. When you’re ready to clean them out, hopefully recycling is on your mind.Both books and magazines fall under the category of mixed paper, which also includes catalogs and phone books. While mixed paper has a lower commodity value (and thus a smaller recycling market) than items like newspapers, office paper and corrugated cardboard, most paper mills in the U.S. will recycle mixed paper.",
+				
+				"tips_header":"Book and Magazine Recycling Preparation",
+				"tips":[
+					"For magazines, you don’t need to remove anything from inside the magazine, such as staples, the cardstock ads or even perfume samples. You can also leave the cover and binding.","If the magazine came in a plastic bag, you’ll want to remove and recycle this separately.","For paperback books, you can recycle the book whole, including the binding. For hardcover books, you’ll need to remove the cover because it has non-paper components.","If either your books or magazines have gotten wet or the paper has turned tan or brown, they should be thrown away with your household trash, as there is no recycling market for this material."
+				]
+				
+	  
+	  }	
+	},
+	{ "item": ["cardboard"],
+		 "data": {
+				"image":"https://s3.amazonaws.com/aws-sumerian-ar/APL/how2recycle/recycling-cardboard-header.jpg",
+				"link":"https://earth911.com/recycling-guide/how-to-recycle-cardboard/",
+				"title":"How to Recycle Cardboard",
+				"title_text":"Corrugated cardboard is the highest value grade of paper, as its durability means long paper fibers. This also helps explain why it has the highest recycling rate of paper products: 92.9 percent in 2015.",
+				
+				"tips_header":"Cardboard Recycling Preparation",
+				"tips":[
+					"Use a knife or scissors to cut any tape used to seal the top and/or bottom of the box, then collapse the box. You don’t need to remove the tape, but most recyclers prefer that boxes are flattened to save space.","For boxes that contained huge items, you may need to fold or cut the flattened box in half for it to fit in your recycling cart. Some programs also allow you to set large boxes next to the cart, but don’t put them out if it’s raining. Wet cardboard doesn’t have a recycling market.","For boxes that are food-soiled (such as pizza boxes), cut out any oil stains before recycling. Food-soiled paper doesn’t have a recycling market."
+				]
+				
+	  
+	  }	
+	},
+		{ "item": ["cartons"],
+		 "data": {
+				"image":"https://s3.amazonaws.com/aws-sumerian-ar/APL/how2recycle/recycling-cartons-header.jpg",
+				"link":"https://earth911.com/recycling-guide/how-to-recycle-cartons/",
+				"title":"How to Recycle Milk & Juice Cartons",
+				"title_text":"Cartons like those used for milk, juice, soy or grain milk and soup are recyclable. Curbside programs continue to increase their carton recycling rate throughout the U.S., and there are drop-off and mail-in options available as well. Despite the type, refrigerated or shelf stable, cartons are a valuable source of material to make products like tissue, paper towel, and even building materials.",
+				
+				"tips_header":"Cartons Recycling Preparation",
+				"tips":[
+					"Cartons are made mainly from paper, a renewable resource. Unlike finite resources that will be gone once they’re depleted, renewable resources are there forever, if well managed.","Cartons are made of paperboard with plastic lining. Linings are separated during the recycling process."
+				]
+				
+	  
+	  }	
+	},
+	{ "item": ["newspaper"],
+		 "data": {
+				"image":"https://s3.amazonaws.com/aws-sumerian-ar/APL/how2recycle/how-to-recycle-newspaper-min-600x300.jpg",
+				"link":"https://earth911.com/recycling-guide/how-to-recycle-newspaper/",
+				"title":"How to Recycle Newspaper",
+				"title_text":"Newspaper is easily recycled through many curbside recycling programs and can be made into new newsprint and other materials. Find a location to recycle newspaper in your area using the recycling search tool at the end of this article.",
+				
+				"tips_header":"How to compost newspaper",
+				"tips":[
+					"Almost all forms of clean, non-treated paper can be composted. The dry material will help balance the ratio of “green” (carbon-rich) and “brown” (nitrogen-rich) materials in your pile, and since most modern newspapers are printed with plant-based inks, you don’t have to worry about contaminating your compost.","If you have an organic garden or are concerned about non-organic inks finding their way into your pile, check your local newspaper’s website or give them a call to inquire about the type of ink they use.","As an alternative, you can also try the “dig a hole” method of composting. Simply dig a one-foot hole anywhere in your yard, gradually add your newspaper and cover the hole with a board or bricks until it’s full."
+				]
+				
+	  
+	  }	
+	},
+		{ "item": ["paper"],
+		 "data": {
+				"image":"https://s3.amazonaws.com/aws-sumerian-ar/APL/how2recycle/how-to-recycle-paper.jpg",
+				"link":"https://earth911.com/recycling-guide/how-to-recycle-paper/",
+				"title":"How to Recycle Paper",
+				"title_text":"In the U.S., we recycle a lot of paper; it accounts for half of the recyclables collected per year, and our paper recycling rate is 63 percent. However, paper still makes up 33 percent of our annual garbage output, so we have a long way to go.",
+				
+				"tips_header":"Paper Recycling Tips",
+				"tips":[
+					"Avoid getting paper wet, as this significantly reduces the recycling market. If your curbside program accepts all materials in the same bin/cart, empty your containers before tossing them in so they don’t drain on your paper. If there’s rain in the forecast, wait until the morning of collection to put your bin at the curb.","If possible, use a black marker to remove sensitive information instead of shredding paper. Ink is easily removed in the recycling process, but shredding paper reduces the fiber lengths, making it more difficult to recycle into new paper.","Verify what types of paper are accepted in your area, as some communities only accept certain grades. Definitely check to see if your community accepts paper lined with plastic, such as frozen food boxes and cartons.","In the case of boxes (cardboard and paperboard), break them down to save room in your recycling bin."
+				]
+				
+	  
+	  }	
+	},
+	{ "item": ["cell phone", "mobile", "cell phones"],
+		 "data": {
+				"image":"https://s3.amazonaws.com/aws-sumerian-ar/APL/how2recycle/recycling-cell-phone-header.jpg",
+				"link":"https://earth911.com/recycling-guide/how-to-recycle-cell-phones/",
+				"title":"How to Recycle Cell Phones",
+				"title_text":"The Consumer Electronics Association expects a cell phone to last less than five years, and that’s assuming you don’t decide to upgrade to new technology every two years. The good news is that cell phones have the highest recycling market of any electronic material. The bad news is that in the U.S., we only recycle 10 percent of our phones, according to the EPA. The rest may end up in a landfill, but more likely end up in our desk drawers or garages. Recycling cell phones has never been easier, as you can trade them in when buying a new phone for cash, mail them for recycling, take them to retail locations that participate in Call2Recycle or recycle them with other e-waste.",
+				
+				"tips_header":"Steps to Prepare Phone For Recycling",
+				"tips":[
+					"If you bought a new phone, make sure to transfer the data from your old phone. The store can often help with this.","Locate the settings screen on your phone and factory reset it so all your data is removed. As an added precaution, you can also remove the SIM card.","If the cell phone battery is removable, you’ll want to take it out. Most cell phone batteries are lithium-ion batteries, which require special transportation for recycling, so this is especially important if using a manufacturer’s mail-back program.","Use the Recycling Locator to find a drop-off location near you."
+				]
+				
+	  
+	  }	
+	},
+	{ "item": ["computer monitor", "monitor"],
+		 "data": {
+				"image":"https://s3.amazonaws.com/aws-sumerian-ar/APL/how2recycle/Computer-Recycling-Header.jpg",
+				"link":"https://earth911.com/recycling-guide/how-to-recycle-computer-monitors/",
+				"title":"How to Recycle Computer Monitor",
+				"title_text":"If you’re looking to recycle a cathode ray tube (CRT) monitor, which have been mostly phased out of the sales market at this point, it contains four to eight pounds of lead. If you have a liquid-crystal display (LCD) screen, it’s likely being backlit by small fluorescent bulbs containing mercury. Both are toxic metals that you want to keep inside the monitor.",
+				
+				"tips_header":"Steps to Prepare Computer Monitor For Recycling",
+				"tips":[
+				"Unplug the DVI, HDMI or VGA cable from your monitor (as well as the CPU) to lighten the load and prevent tripping (for VGA, you’ll need to unscrew the ends). If the power cord can be removed, unplug that as well.","Use a dolly or a rolling chair to transport the monitor to your car. CRT monitors can be quite heavy and you don’t want to risk dropping them.","Place a towel or blanket down in the car and put the monitor face down on top. This will ensure that nothing breaks if you hit any potholes on the drive."
+				]			
+	  
+	  }	
+	},
+	{ "item": ["electrical appliances", "appliances"],
+		 "data": {
+				"image":"https://s3.amazonaws.com/aws-sumerian-ar/APL/how2recycle/Recycle-Small-Appliances.jpg",
+				"link":"https://earth911.com/recycling-guide/how-to-recycle-small-appliances/",
+				"title":"How to Recycle small Appliances",
+				"title_text":"IWhile small appliances like blenders and toasters are built to last a long time, eventually you’ll look to upgrade. These products are mostly composed of metal like steel, making them pretty easy to recycle, and also something you want to keep out of a landfill.",
+				
+				"tips_header":"Small Appliances Recycling Preparation",
+				"tips":["Unplug your appliance for several days before recycling to let it cool down.","For microwaves or other heavier appliances (e.g., breadmakers), tie up the cord using either a twist tie or the cord itself (or tape it to the unit). The last thing you want is to trip while carrying an item that may weigh 25 to 50 pounds.",
+					"If the item is still in working condition, consider donating it to a thrift store. While it’s not required that you clean appliances before donation, it’s certainly appreciated.","If your appliance has removable parts not made of metal (such as the tempered glass or plastic blender jar), there probably isn’t a recycling market for those. You can remove these parts prior to recycling."
+				]			
+	  
+	  }	
+	}
+]
+}
