@@ -7,10 +7,10 @@ Also once we have information about the recycling label, we can find nearby recy
 It is a complete solution to help people getting information about the recycling process. 
 
 ## What it does
-### Provide information about recycling labels by scanning the label using the mobile camera
-### User can launch  Recycling Helper (Sumerian Host) in AR environment to get  detailed information about the recycling labels and its various parts. 
-### Recycling Helper can provide information about the nearby recycling center by using web site of earth911.com.
-### Provide the steps how to prepare an item to recycle
+### 1. This application provide information about recycling labels by scanning the label using the Android App.
+### 2. User can launch  Recycling Helper (Sumerian Host) in AR environment to get  detailed information about the recycling labels and its various parts. Images are fetched dynamically from AWS S3. Host is interfaced with Amazon Lex for backend logic. Lex response is synchronized to diplay the map of the recycling center in the app.
+### 3. Recycling Helper can provide information about the nearby recycling center by using python package "Beautiful Soup" to extract data from the web site of earth911.com.
+### 4. Provide the steps how to prepare an item to recycle. Lex response is synchronised to provide information and also show the link web page from earth911.com in the app
 
 ## How I built it
 This application has two parts 
